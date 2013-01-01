@@ -18,4 +18,6 @@
 ** 年费用户，直接拥有多少m空间
 
 竞品分析
-* slideshare (http://www.slideshare.net/)
+* slideshare (http://www.slideshare.net/)。由于网站在国外容易打不开， 比较不适合国人用啊。
+* baidu文库 (wenku.baidu.com)。可以上传ppt、word等等各类文档格式，国内用的人比较多。
+* 豆丁网 (docin.com)。做的比较早，算是国内最早的吧。资料也已经很多了，功能需要继续研究吧。
